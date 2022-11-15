@@ -1,0 +1,17 @@
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.BL.deps.json
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.BL.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.BL.pdb
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.Common.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.DL.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.Common.pdb
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\bin\Debug\net5.0\Hyperlogy.DL.pdb
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.csproj.AssemblyReference.cache
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.AssemblyInfoInputs.cache
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.AssemblyInfo.cs
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.csproj.CoreCompileInputs.cache
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.csproj.CopyComplete
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\refint\Hyperlogy.BL.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\Hyperlogy.BL.pdb
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.BL\obj\Debug\net5.0\ref\Hyperlogy.BL.dll

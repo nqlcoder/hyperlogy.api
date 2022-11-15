@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyperlogy.API", "Hyperlogy.API\Hyperlogy.API.csproj", "{397C0941-7319-4EA4-A916-D3C6C24675C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyperlogy.BL", "..\Hyperlogy.BL\Hyperlogy.BL.csproj", "{BB367673-E51F-46A3-9584-71895838BBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyperlogy.DL", "..\Hyperlogy.DL\Hyperlogy.DL.csproj", "{2CED3BCB-B4B5-49DC-844C-47493841BB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyperlogy.Common", "..\Hyperlogy.Common\Hyperlogy.Common.csproj", "{E3045F59-00A0-464A-8D62-1344C744858C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397C0941-7319-4EA4-A916-D3C6C24675C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397C0941-7319-4EA4-A916-D3C6C24675C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397C0941-7319-4EA4-A916-D3C6C24675C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397C0941-7319-4EA4-A916-D3C6C24675C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB367673-E51F-46A3-9584-71895838BBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB367673-E51F-46A3-9584-71895838BBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB367673-E51F-46A3-9584-71895838BBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB367673-E51F-46A3-9584-71895838BBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CED3BCB-B4B5-49DC-844C-47493841BB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CED3BCB-B4B5-49DC-844C-47493841BB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CED3BCB-B4B5-49DC-844C-47493841BB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CED3BCB-B4B5-49DC-844C-47493841BB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3045F59-00A0-464A-8D62-1344C744858C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3045F59-00A0-464A-8D62-1344C744858C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3045F59-00A0-464A-8D62-1344C744858C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3045F59-00A0-464A-8D62-1344C744858C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC5FBE8-8A4B-401F-8F01-734AA7EBACB1}
+	EndGlobalSection
+EndGlobal
