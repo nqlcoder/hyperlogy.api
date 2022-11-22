@@ -29,6 +29,7 @@ namespace Hyperlogy.API
         {
             Configuration = configuration;
         }
+        
 
         public IConfiguration Configuration { get; }
 
@@ -67,6 +68,7 @@ namespace Hyperlogy.API
 
             // configure strongly typed settings object
             services.Configure<Appsettings>(Configuration.GetSection("Jwt"));
+            services.AddScoped<HyperAuthorizeAttribute>();
 
         }
 

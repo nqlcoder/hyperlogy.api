@@ -49,3 +49,8 @@ E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.
 E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Hyperlogy\CRUD_API_V1\Hyperlogy.API\Hyperlogy.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll

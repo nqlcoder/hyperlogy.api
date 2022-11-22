@@ -12,7 +12,7 @@ namespace Hyperlogy.Common.JWT
 {
     public static class TokenMananger
     {
-        public static string GenerateToken(string UserName, string PublicKey, int expireMinutes = 1440)
+        public static string GenerateToken(string userName,string publicKey, int expireMinutes = 1440)
         {
             // convert config secret key to bytes
             var symmetricKey = Encoding.ASCII.GetBytes(WebJwtConstants.SECRET_KEY);
@@ -25,8 +25,8 @@ namespace Hyperlogy.Common.JWT
                 // payload
                 Subject = new ClaimsIdentity(new[]
                 {
-                    new Claim("username", UserName),
-                    new Claim("publickey", PublicKey)
+                    new Claim("username", userName),
+                    new Claim("publickey", publicKey)
                 }),
                 // thoi gian hieu luc cua token ( DateTime )
                 Expires = now.AddMinutes(Convert.ToInt32(expireMinutes)),
